@@ -141,7 +141,9 @@ a.p:hover span {
 
 <br><br><br><br><br><br><br><br><br>	
 <h1><span class="yellow"><marquee direction="right">!!! 以下、HPの作り方開設予定・・・乞うご期待 !!!</marquee></span></h1>
+<br><br><br>
 
+<p><h2>〜〜〜作成中〜〜</h2></p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
