@@ -133,7 +133,11 @@ a.p:hover span {
  <p><h2>① QRコードを作成したいページのURLをコピーします。<br>
 ② 以下のリンク先に飛んで、所定の場所にURLをペースト、できた画像をダウンロードして使用します。</h2></p>
 							       
-<p><a href="https://qr.quel.jp/url.php">QRコード作成リンクhttps://qr.quel.jp/url.php</a></p>					      
+<p><a href="https://qr.quel.jp/url.php">QRコード作成リンクhttps://qr.quel.jp/url.php</a></p>	
+	<br><br>
+	
+<p><h2>以上、簡単ですが上部のQRコードも同じ方法でできています。<br>リンク先にはURL以外のものもQRコード化する方法が提供されています。</h2></p>
+
 
 <br><br><br><br><br><br><br><br><br>	
 <h1><span class="yellow"><marquee behavior="right">!!! 以下、HPの作り方開設予定・・・乞うご期待 !!!</marquee></span></h1>
