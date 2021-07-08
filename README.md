@@ -146,9 +146,9 @@ a.p:hover span {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-
-<p align="right"> <span class="snow"><h4>背景奥の白い家は、ユナちゃんの家、場所は秘密です！</h4></span></p>
-
+<h6>
+<p align="right"> <span class="snow">背景奥の白い家は、ユナちゃんの家、場所は秘密です！</span></p>
+</h6>
 <!-- フッタ -->
  <footer>
  <span class="snow">Copyright 2021/07/08 S.Hada</span>
