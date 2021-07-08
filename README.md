@@ -109,17 +109,18 @@ a.p:hover span {
   より見やすくご覧頂けます。
 </p>
     
-<!--ここから上は定型文としてそのままコピペして再利用します—->
+<!-- ここから上は定型文としてそのままコピペして再利用します —->
 
-<!—-リンクの作り方、例-->
+<!—- リンクの作り方、例 -->
+<!--
 <a href="ここにリンク先のURLを入れる" target="_blank" rel="noopener noreferrer">新規タブで開く</a>
-
-<!—-ぱんくずリストの表示例—->
+-->
+<!-- ぱんくずリストの表示例 —->
 <!--今回は未使用
 <p><a href="https://torokoid.github.io/fts_home">Home</a>>同窓会</p>
-—->
+-->
 
-<!-— 表題の表示、背景黄色、流れ文字の例 —->
+<!-- 表題の表示、背景黄色、流れ文字の例 -->
 <h1><span class="yellow"><marquee behavior="alternate">!!! QRコードの作り方、他にも色々な方法がありますが、一例です。 !!!</marquee></span></h1>
 
 
@@ -129,7 +130,10 @@ a.p:hover span {
 <p align="left"> <img src="qr.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 
 
-<h3><span class="white">緑川さん提供、小さなカメラからのスナップ↓</span></h3>
+ <p><h3>QRコードを作成したいページのURLをコピーします。<br>
+以下のリンク先に飛んで、所定の場所にURLをペースト、できた画像をダウンロードして使用します。</h3></p>
+							       
+<p><a href="https://qr.quel.jp/url.php">QRコード作成リンクhttps://qr.quel.jp/url.php</a></p>					      
 
 
 
@@ -142,7 +146,7 @@ a.p:hover span {
 
 <!-- フッタ -->
  <footer>
- Copyright 2021/07/08 S.Hada
+ <span class="snow">Copyright 2021/07/08 S.Hada</span>
  </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
