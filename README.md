@@ -130,8 +130,8 @@ a.p:hover span {
 <p align="left"> <img src="qr.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 
 
- <p><h3>QRコードを作成したいページのURLをコピーします。<br>
-以下のリンク先に飛んで、所定の場所にURLをペースト、できた画像をダウンロードして使用します。</h3></p>
+ <p><h3>① QRコードを作成したいページのURLをコピーします。<br>
+② 以下のリンク先に飛んで、所定の場所にURLをペースト、できた画像をダウンロードして使用します。</h3></p>
 							       
 <p><a href="https://qr.quel.jp/url.php">QRコード作成リンクhttps://qr.quel.jp/url.php</a></p>					      
 
@@ -157,7 +157,7 @@ a.p:hover span {
 <script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
 <script src="https://torokoid.github.io/shiba/my.js"></script>
 
-
+</div>
 </body>
 
 </html>
