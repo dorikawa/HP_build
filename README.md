@@ -147,7 +147,7 @@ a.p:hover span {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-<p align="right"> <span class="snow">背景奥の白い家は、ユナちゃんの家、場所は秘密！</span></p>
+<h4><p align="right"> <span class="snow">背景奥の白い家は、ユナちゃんの家、場所は秘密です！</span></p></h4>
 
 <!-- フッタ -->
  <footer>
