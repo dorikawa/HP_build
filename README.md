@@ -121,7 +121,7 @@ a.p:hover span {
 -->
 
 <!-- 表題の表示、背景黄色、流れ文字の例 -->
-<h1><span class="yellow"><marquee behavior="left">!!! QRコードの作り方、他にも色々な方法がありますが、一例です。 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee>!!! QRコードの作り方、他にも色々な方法がありますが、一例です。 !!!</marquee></span></h1>
 
 <!--
 <div style="background-color:rgb(255,255,255,0.3);”>
@@ -140,7 +140,7 @@ a.p:hover span {
 
 
 <br><br><br><br><br><br><br><br><br>	
-<h1><span class="yellow"><marquee behavior="right">!!! 以下、HPの作り方開設予定・・・乞うご期待 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee direction="right">!!! 以下、HPの作り方開設予定・・・乞うご期待 !!!</marquee></span></h1>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
