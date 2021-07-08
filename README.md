@@ -109,23 +109,23 @@ a.p:hover span {
   より見やすくご覧頂けます。
 </p>
     
-<!--ここから上は定型文としてそのままコピペして再利用します—>
+<!--ここから上は定型文としてそのままコピペして再利用します—->
 
-<!—リンクの作り方、例—>
+<!—-リンクの作り方、例-->
 <a href="ここにリンク先のURLを入れる" target="_blank" rel="noopener noreferrer">新規タブで開く</a>
 
-<!—ぱんくずリストの表示例—>
+<!—-ぱんくずリストの表示例—->
 <!--今回は未使用
 <p><a href="https://torokoid.github.io/fts_home">Home</a>>同窓会</p>
-—>
+—->
 
-<!—表題の表示、背景黄色、流れ文字の例—>
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2019年4月22日(月)平成最後の安否確認会の記録＠牡蠣ビストロ貝殻荘(飯田橋) !!!</marquee></span></h1>
+<!-— 表題の表示、背景黄色、流れ文字の例 —->
+<h1><span class="yellow"><marquee behavior="alternate">!!! QRコードの作り方、他にも色々な方法がありますが、一例です。 !!!</marquee></span></h1>
 
 
 <div style="background-color:rgb(255,255,255,0.3);”>
 
-<!—QRコードの表示例—>
+<!—- QRコードの表示例 -—>
 <p align="left"> <img src="qr.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 
 
