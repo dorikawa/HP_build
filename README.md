@@ -123,15 +123,15 @@ a.p:hover span {
 <!-- 表題の表示、背景黄色、流れ文字の例 -->
 <h1><span class="yellow"><marquee behavior="alternate">!!! QRコードの作り方、他にも色々な方法がありますが、一例です。 !!!</marquee></span></h1>
 
-
+<!--
 <div style="background-color:rgb(255,255,255,0.3);”>
 
-<!—- QRコードの表示例 -—>
+<!-- QRコードの表示例 -->
 <p align="left"> <img src="qr.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 
 
- <p><h3>① QRコードを作成したいページのURLをコピーします。<br>
-② 以下のリンク先に飛んで、所定の場所にURLをペースト、できた画像をダウンロードして使用します。</h3></p>
+ <p><h2>① QRコードを作成したいページのURLをコピーします。<br>
+② 以下のリンク先に飛んで、所定の場所にURLをペースト、できた画像をダウンロードして使用します。</h2></p>
 							       
 <p><a href="https://qr.quel.jp/url.php">QRコード作成リンクhttps://qr.quel.jp/url.php</a></p>					      
 
