@@ -140,7 +140,7 @@ a.p:hover span {
 
 
 <br><br><br><br><br><br><br><br><br>	
-<h1><span class="yellow"><marquee direction="right">!!! 以下、HPの作り方開設予定・・・乞うご期待 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee direction="right">!!! 以下、HPの作り方解説予定・・・乞うご期待 !!!</marquee></span></h1>
 <br><br><br>
 
 <p><h2><span class="snow"><marquee scrollamount="16">〜〜〜〜〜〜〜〜作成中〜〜〜〜〜〜〜〜</marquee></span></h2></p>
