@@ -115,10 +115,10 @@ a.p:hover span {
 <!--
 <a href="ここにリンク先のURLを入れる" target="_blank" rel="noopener noreferrer">新規タブで開く</a>
 -->
-<!-- ぱんくずリストの表示例 —->
-<!--今回は未使用
-<p><a href="https://torokoid.github.io/fts_home">Home</a>>同窓会</p>
--->
+<!-- ぱんくずリストの表示例 -->
+
+<p><a href="https://dorikawa.github.io/20210704_Utsunomiuya_swim">2021年宇都宮市民大会</a>>IT関連情報</p>
+
 
 <!-- 表題の表示、背景黄色、流れ文字の例 -->
 <h1><span class="yellow"><marquee>!!! QRコードの作り方、他にも色々な方法がありますが、一例です。 !!!</marquee></span></h1>
