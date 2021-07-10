@@ -148,6 +148,11 @@ Githubとはネットワーク技術者たちが共同作業をするための�
 <p><a href="https://github.com/">Githubリンクhttps://github.com/</a></p>
 <br>
 <a href="20210709_001.png" data-lightbox="abc"><img src="20210709_001.png" alt="サンプル画像" width="900" /></a>
+<br>
+<p><h2>サインアップを使うのは最初の一回だけ、二回目以降はサインインを使います。<br>
+一度作ってしまえば、以降はユーザーネームとパスワードの入力でサインインできますので、この二つは忘れないようにしましょう。<br>
+</h2></p>
+
 <a href="20210709_002.png" data-lightbox="abc"><img src="20210709_002.png" alt="サンプル画像" width="900" /></a>
 <a href="20210709_003.png" data-lightbox="abc"><img src="20210709_003.png" alt="サンプル画像" width="900" /></a>
 <a href="20210709_004.png" data-lightbox="abc"><img src="20210709_004.png" alt="サンプル画像" width="900" /></a>
