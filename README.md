@@ -157,6 +157,11 @@ Githubとはネットワーク技術者たちが共同作業をするための�
 以下は新しいリポジトリ(≒ HP)の作り方です。皆さんが独自のアカウントを立ち上げても同じ作業でHPが作れます。<br>
 参考までに、このページのリポジトリ名は、HP_buildです。URLの中に見えますね。</h2></p>
 
+<p><h2>では、新しいリポジトリを作ってみましょう。<br>
+以下のようにクリックして、</h2></p>
+<a href="20210709_006.png" data-lightbox="abc"><img src="20210709_006.png" alt="サンプル画像" width="900" /></a>
+<p><h2>リポジトリの名前を適当に決めて入力、<br>
+下の二箇所にチェックを入れます。</h2></p>
 <a href="20210709_002.png" data-lightbox="abc"><img src="20210709_002.png" alt="サンプル画像" width="900" /></a>
 <p><h2><span class="snow"><marquee scrollamount="16">〜〜〜〜〜〜〜〜まだまだ、作成中〜〜〜〜〜〜〜〜</marquee></span></h2></p>
 <a href="20210709_003.png" data-lightbox="abc"><img src="20210709_003.png" alt="サンプル画像" width="900" /></a>
