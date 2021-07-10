@@ -158,10 +158,15 @@ Githubとはネットワーク技術者たちが共同作業をするための�
 参考までに、このページのリポジトリ名は、HP_buildです。URLの中に見えますね。</h2></p>
 
 <a href="20210709_002.png" data-lightbox="abc"><img src="20210709_002.png" alt="サンプル画像" width="900" /></a>
-
+<p><h2><span class="snow"><marquee scrollamount="16">〜〜〜〜〜〜〜〜まだまだ、作成中〜〜〜〜〜〜〜〜</marquee></span></h2></p>
 <a href="20210709_003.png" data-lightbox="abc"><img src="20210709_003.png" alt="サンプル画像" width="900" /></a>
 <a href="20210709_004.png" data-lightbox="abc"><img src="20210709_004.png" alt="サンプル画像" width="900" /></a>
 <a href="20210709_005.png" data-lightbox="abc"><img src="20210709_005.png" alt="サンプル画像" width="900" /></a>
+
+<p><h2>最後にそこかしこに出てくるネコですが、Githubのメインキャラ「オクトキャット」です。<br>
+すでにある領域ではマスコット化されていて、グッズも販売されています。<br>
+幸か不幸か、日本でこれを身につけていてもあまり反応はないでしょうね。</h2></p>
+<p><a href="https://thegithubshop.com/">グッズ販売リンク</a></p>
 
 
 <br><br>
