@@ -146,7 +146,11 @@ Githubとはネットワーク技術者たちが共同作業をするための�
 今回はそのしくみのごく一部の機能を使います。<br>
 以下のリンク先に飛んで、ユーザーネーム、パスワード、メールアドレスなどを入力します。</h2></p>
 <p><a href="https://github.com/">Githubリンクhttps://github.com/</a></p>
-<br><br><br>
+<br>
+<a href="20210704_001.JPG" data-lightbox="abc"><img src="20210704_001.JPG" alt="サンプル画像" width="900" /></a>
+
+
+<br><br>
 
 <!--
 <p><h2><span class="snow"><marquee scrollamount="16">〜〜〜〜〜〜〜〜作成中〜〜〜〜〜〜〜〜</marquee></span></h2></p>
