@@ -140,11 +140,16 @@ a.p:hover span {
 
 
 <br><br><br><br><br><br><br><br><br>	
-<h1><span class="yellow"><marquee direction="right">!!! 以下、HPの作り方解説予定・・・乞うご期待 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee direction="right">!!! 以下、HPの作り方解説 !!!</marquee></span></h1>
+ <p><h2>まず、Githubのアカウントを作ります。<br>
+Githubとはネットワーク技術者たちが共同作業をするためのしくみで、今回はそのしくみのごく一部の機能を使います。<br>
+以下のリンク先に飛んで、ユーザーネーム、パスワード、メールアドレスなどを入力します。</h2></p>
+<p><a href="https://qr.quel.jp/url.php">Githubリンクhttps://qr.quel.jp/url.php</a></p>
 <br><br><br>
 
+<!--
 <p><h2><span class="snow"><marquee scrollamount="16">〜〜〜〜〜〜〜〜作成中〜〜〜〜〜〜〜〜</marquee></span></h2></p>
-
+-->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
