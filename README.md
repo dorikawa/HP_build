@@ -141,7 +141,8 @@ a.p:hover span {
 
 <br><br><br><br><br><br><br><br><br>	
 <h1><span class="yellow"><marquee direction="right">!!! 以下、HPの作り方解説 !!!</marquee></span></h1>
- <p><h2>まず初めに、Githubのアカウントを作ります。<br>
+ <p><h2>HPの作り方は色々ありますが、ここで説明するのはGithubを使ったHPの作り方の例です。<br>
+まず初めに、Githubのアカウントを作ります。<br>
 Githubとはネットワーク技術者たちが共同作業をするためのしくみで、2008年に発足、<br>
 2018年にはマイクロソフトに吸収合併されました。2021年時点で無料開放されいてます。<br>
 今回はそのしくみのごく一部の機能を使います。<br>
