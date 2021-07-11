@@ -165,8 +165,7 @@ Githubとはネットワーク技術者たちが共同作業をするための�
 <a href="20210709_002.png" data-lightbox="abc"><img src="20210709_002.png" alt="サンプル画像" width="900" /></a>
 <p><h2>ここからが本番で、README.fileにソースコードを書き込んでいきます。<br>
 ただし、初めてでは難易度が高いので、以下のコードをコピペして使います。</h2></p>
-
-https://docs.google.com/spreadsheets/d/1wnsQSTP2Vv3ncIYPWtxRlBZRESRBkq_FD-y8f3Vbwpk/edit#gid=0
+<h1><a href="https://docs.google.com/spreadsheets/d/1wnsQSTP2Vv3ncIYPWtxRlBZRESRBkq_FD-y8f3Vbwpk/edit#gid=0" target="_blank" rel="noopener noreferrer">サンプルコードへのリンク、別のタブで開きます。</a></h1>
 
 <p><h2><span class="snow"><marquee scrollamount="16">〜〜〜〜〜〜〜〜まだまだ、作成中〜〜〜〜〜〜〜〜</marquee></span></h2></p>
 <a href="20210709_003.png" data-lightbox="abc"><img src="20210709_003.png" alt="サンプル画像" width="900" /></a>
