@@ -141,11 +141,11 @@ a.p:hover span {
 
 <br><br><br><br><br><br><br><br><br>	
 <h1><span class="yellow"><marquee direction="right">!!! 以下、HPの作り方解説 !!!</marquee></span></h1>
- <p><h2>HPの作り方は色々ありますが、ここで説明するのはGithubを使ったHPの作り方の例です。<br>
-まず初めに、Githubのアカウントを作ります。<br>
+ <p><h2>HPの作り方は色々ありますが、ここで説明するのはGithubを使ったHPの作り方の例です。<br><br>
 Githubとはネットワーク技術者たちが共同作業をするためのしくみで、2008年に発足、<br>
 2018年にはマイクロソフトに吸収合併されました。2021年時点で無料開放されいてます。<br>
-今回はそのしくみのごく一部の機能を使います。<br>
+今回はそのしくみのごく一部の機能を使います。<br><br>
+まず初めに、Githubのアカウントを作ります。<br>
 以下のリンク先に飛んで、ユーザーネーム、パスワード、メールアドレスなどを入力してアカウントを作成します。</h2></p>
 <p><a href="https://github.com/">Githubリンクhttps://github.com/</a><br>すでにアカウントをお持ちの場合は、ご自分のアカウントに飛ぶようです。</p>
 
@@ -196,18 +196,21 @@ Youtubeにアップされている動画の閲覧画面下、共有ボタンを�
 <a href="20210709_014.png" data-lightbox="abc"><img src="20210709_014.png" alt="サンプル画像" width="900" /></a>
 <p><h2>リポジトリ内の画像を表示するソースコードは、以下になります。</h2></p>
 <a href="20210709_015.png" data-lightbox="abc"><img src="20210709_015.png" alt="サンプル画像" width="900" /></a>
-
+<p><h2>すべての変更後に、最下段の緑のボタンを押すのを忘れずに！</h2></p>
 <p><h2><span class="snow"><marquee scrollamount="16">〜〜〜〜〜〜〜〜まだまだ、作成中〜〜〜〜〜〜〜〜</marquee></span></h2></p>
+
+<p><h2>最後にリポジトリに記載したHTMLソースコードをHPとして公開する方法の説明です。<br>
+以下の操作で、一般的なURLの表示までたどり着きます。</h2></p>
 <a href="20210709_003.png" data-lightbox="abc"><img src="20210709_003.png" alt="サンプル画像" width="900" /></a>
 <a href="20210709_004.png" data-lightbox="abc"><img src="20210709_004.png" alt="サンプル画像" width="900" /></a>
 <a href="20210709_005.png" data-lightbox="abc"><img src="20210709_005.png" alt="サンプル画像" width="900" /></a>
-
+<br><br>
 <p><h2>最後にそこかしこに出てくるネコですが、<br>
 Githubのメインキャラ「オクトキャット」(タコ・ねこ)です。<br>
 このHPのQRコード真ん中にも配置してあります。<br>
-ある領域ではずいぶん流行っていて、グッズも販売されています。<br>
+Net技術者の間ではすでに当たり前のキャラで、グッズも販売されています。<br>
 気になる方は、以下のリンクから購入できますので、よろしければどうぞ！</h2></p>
-<p><a href="https://thegithubshop.com/">Githubのグッズ販売リンク</a></p>
+<p><a href="https://thegithubshop.com/">Githubのグッズ販売へのリンク</a></p>
 
 
 <br><br>
