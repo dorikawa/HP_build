@@ -186,7 +186,7 @@ Youtubeにアップされている動画の閲覧画面下、共有ボタンを�
 <a href="20210709_013.png" data-lightbox="abc"><img src="20210709_013.png" alt="サンプル画像" width="900" /></a>
 
 
-<p><h2>動画に対応していないGithubでの動画共有はYoutube頼みで完了です。<br>
+<p><h2>動画に対応していないGithubでの動画共有はYoutube頼みになります。<br><br>
 ここからは、このHPでも多用した静止画像の配置方法です。背景画像もこれに含まれます。<br>
 最初にPC内に作った静止画像をリポジトリにアップします。</h2></p>
 <a href="20210709_008.png" data-lightbox="abc"><img src="20210709_008.png" alt="サンプル画像" width="900" /></a>
@@ -194,6 +194,8 @@ Youtubeにアップされている動画の閲覧画面下、共有ボタンを�
 <a href="20210709_009.png" data-lightbox="abc"><img src="20210709_009.png" alt="サンプル画像" width="900" /></a>
 <p><h2>Codeボタンを押した時に見える**.pngや**jpgが静止画像のファイルです。</h2></p>
 <a href="20210709_014.png" data-lightbox="abc"><img src="20210709_014.png" alt="サンプル画像" width="900" /></a>
+<p><h2>リポジトリ内の画像を表示するソースコードは、以下になります。</h2></p>
+<a href="20210709_015.png" data-lightbox="abc"><img src="20210709_015.png" alt="サンプル画像" width="900" /></a>
 
 <p><h2><span class="snow"><marquee scrollamount="16">〜〜〜〜〜〜〜〜まだまだ、作成中〜〜〜〜〜〜〜〜</marquee></span></h2></p>
 <a href="20210709_003.png" data-lightbox="abc"><img src="20210709_003.png" alt="サンプル画像" width="900" /></a>
