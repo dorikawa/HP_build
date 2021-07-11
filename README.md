@@ -166,7 +166,7 @@ Githubとはネットワーク技術者たちが共同作業をするための�
 <a href="20210709_002.png" data-lightbox="abc"><img src="20210709_002.png" alt="サンプル画像" width="900" /></a>
 <p><h2>ここからが本番で、README.fileにソースコードを書き込んでいきます。<br>
 ただし、初めてでは難易度が高いので、以下のコードをコピペして使います。</h2></p>
-<p><a href="https://raw.githubusercontent.com/dorikawa/20210704_Utsunomiya_swim/main/README.md" rel="noopener noreferrer">サンプルコードへのリンク、別のタブで開きます。</a></p>
+<p><a href="https://raw.githubusercontent.com/dorikawa/20210704_Utsunomiya_swim/main/README.md" target="_blank" rel="noopener noreferrer">サンプルコードへのリンク、別のタブで開きます。</a></p>
 
 <p><h2>作成段階でREADME.fileだったものは、README.meになっていますが、これの鉛筆マーククリックでソースコードをペーストします。<br>
 この段階で市民大会の動画配信したページと同じものができています。</h2></p>
