@@ -174,12 +174,12 @@ Githubとはネットワーク技術者たちが共同作業をするための�
 <a href="20210709_007.png" data-lightbox="abc"><img src="20210709_007.png" alt="サンプル画像" width="900" /></a>
 <p><h2>では、肝心のYoutube動画のリンク方法です。<br>
 動画の閲覧画面下、共有ボタンを押します。</h2></p>
-<a href="20210709_010.png" data-lightbox="abc"><img src="20210709_010.png" alt="サンプル画像" width="900" /></a>
-<p><h2>ダイアログの中、埋め込みを選びます。<br>
-埋め込みで出てきたコードをコピーしてそのまま使います。</h2></p>
+<a href="20210709_010.jpg" data-lightbox="abc"><img src="20210709_010.jpg" alt="サンプル画像" width="900" /></a>
+<p><h2>ダイアログの中、埋め込むを選びます。<br>
+埋め込むで出てきたコードをコピーしてそのまま使います。</h2></p>
 <a href="20210709_011.png" data-lightbox="abc"><img src="20210709_011.png" alt="サンプル画像" width="900" /></a>
 <p><h2>専門用語で、iframeと呼ばれている仕組みです。<br>
-先ほどコピペしたソースコードの中段に並んでいるものが、これです。</h2></p>
+先ほどコピペしたソースコードの中段に並んでいるものがこれですので、そのままペーストするとリンクします。</h2></p>
 <a href="20210709_012.png" data-lightbox="abc"><img src="20210709_012.png" alt="サンプル画像" width="900" /></a>
 
 <p><h2><span class="snow"><marquee scrollamount="16">〜〜〜〜〜〜〜〜まだまだ、作成中〜〜〜〜〜〜〜〜</marquee></span></h2></p>
