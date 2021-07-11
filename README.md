@@ -212,7 +212,7 @@ Youtubeにアップされている動画の閲覧画面下、共有ボタンを�
 <p><h2>以上、ちょっと長くなりましたがここまでの作業を順番にこなすと、無料の広告なしHPが作れます。<br>
 ここまで読んでいただきありがとうございました！</h2></p>
 
-<p><h2><span class="snow"><marquee scrollamount="16">〜〜〜〜〜〜〜〜ご質問等ありましたら、なんなりとどうぞ！以下のQRコードを読むとブラウザが立ち上がって、メール作成リンクをクリックくすると、torokoid@gmail.com(羽田)宛のメール作成動作に入ります。〜〜〜〜〜〜〜〜</marquee></span></h2></p>
+<p><h2><span class="snow"><marquee scrollamount="16">〜〜〜〜〜〜〜〜ご質問等ありましたら、なんなりとどうぞ！以下のQRコードをスマホで読みこむとブラウザが立ち上がって、メール作成リンクをクリックすると、torokoid@gmail.com(羽田)宛のメール作成動作に入ります。〜〜〜〜〜〜〜〜</marquee></span></h2></p>
 <p align="left"> <img src="qr_mail.png" alt="質問メール作成用QRコード" width="100">質問メール作成用QRコード</p>
 
 <br><br><br><br>
