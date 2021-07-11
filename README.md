@@ -213,7 +213,7 @@ Youtubeにアップされている動画の閲覧画面下、共有ボタンを�
 ここまで読んでいただきありがとうございました！</h2></p>
 
 <p><h2><span class="snow"><marquee scrollamount="16">〜〜〜〜〜〜〜〜ご質問等ありましたら、なんなりとどうぞ！〜〜〜〜〜〜〜〜</marquee></span></h2></p>
-
+<p align="left"> <img src="qr_mail.png" alt="質問メール作成用QRコード" width="100">質問メール作成用QRコード</p>
 
 <br><br><br><br>
 <p><h2>最後にそこかしこに出てくるネコですが、<br>
