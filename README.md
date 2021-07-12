@@ -199,7 +199,8 @@ Youtubeにアップされている動画の閲覧画面下、共有ボタンを�
 <a href="20210709_015.png" data-lightbox="abc"><img src="20210709_015.png" alt="サンプル画像" width="900" /></a>
 <p><a href="https://docs.google.com/spreadsheets/d/1wnsQSTP2Vv3ncIYPWtxRlBZRESRBkq_FD-y8f3Vbwpk/edit#gid=1880997290" target="_blank" rel="noopener noreferrer">ソースコードへのリンク、別のタブで開きます。</a></p>
 
-<p><h2>リンク先のページでは、黄色いセルだけ更新すれば、青い列のコードに全て反映されますので、それをコピペするだけで使えます。</h2></p>
+<p><h2>リンク先のページでは、黄色いセルだけ更新すれば、青い列のコードに全て反映されますので、それをコピペするだけで使えます。<br>
+ファイルネームの付け方は、日付＋_＋３桁連番＋拡張子、20210704_001.pngみたいにしてあります。</h2></p>
 <a href="20210709_018.png" data-lightbox="abc"><img src="20210709_018.png" alt="サンプル画像" width="900" /></a>
 
 <br><br>
