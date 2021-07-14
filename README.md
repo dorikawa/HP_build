@@ -143,6 +143,8 @@ a.p:hover span {
 <h1><span class="yellow"><marquee direction="right">!!! 以下、HPの作り方解説 !!!</marquee></span></h1>
 
 <p><a href="https://dorikawa.github.io/HP_build2/">HPの作り方は別ページに移動しました　→ リンク</a></p>
+ <p><h2>作業ステップ毎に背景色を変えて見やすくしてあります。<br>
+HTMLの簡単な説明も追記しました。</h2></p>
 
 <!--
  <p><h2>HPの作り方は色々ありますが、ここで説明するのはGithubを使ったHPの作り方の例です。<br><br>
